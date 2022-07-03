@@ -5,4 +5,6 @@ package ru.ventus.aura.ddlposgresql.service.exceptionhandler;
  * @created : 04.07.2022, 2:21
  */
 //todo advance controller
-public class Handler {}
+public class Handler {
+
+}
